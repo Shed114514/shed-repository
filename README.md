@@ -1,2 +1,2 @@
-# shedmodule
-all for test
+# shed-repository
+This is a public repository that can be accessed for storing resources
